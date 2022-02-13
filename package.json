@@ -1,0 +1,19 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git commit -m 'a' && git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamnt95/cryptocoindb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamnt95/cryptocoindb/issues"
+  },
+  "homepage": "https://github.com/lamnt95/cryptocoindb#readme"
+}
